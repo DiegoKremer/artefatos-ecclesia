@@ -2,6 +2,8 @@
 
 Repositório para armazenamento dos artefatos do Ecclesia, projeto cujo objetivo foi desenvolver o aplicativo para acompanhamento de atividades políticas Meu Político.
 
+Para ver o código do aplicativo visite o repositório [**ecclesia**](https://github.com/DiegoKremer/ecclesia "**ecclesia**").
+
 Os artefatos foram divididos em pastas especificas de acordo com as seguintes categorias:
 
 ### banco
