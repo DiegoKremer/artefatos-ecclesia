@@ -22,6 +22,8 @@ Mais detalhes em [canvas.md](https://github.com/DiegoKremer/artefatos-ecclesia/b
 ### screens
 Contém as capturas de tela de todas as telas desenvolvidas para o aplicativo no primeiro MVP.
 
+Mais detalhes em [screens.md](https://github.com/DiegoKremer/artefatos-ecclesia/blob/master/screens/screens.md "screens.md")
+
 ### scrum
 Todos os artefatos gerados pela utilização da metodologia ágil Scrum (ex: product backlog, user stories, sprints, etc.) são armazenados nesta pasta. 
 
