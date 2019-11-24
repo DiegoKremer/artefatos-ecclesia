@@ -7,12 +7,12 @@ Os artefatos foram divididos em pastas especificas de acordo com as seguintes ca
 ### banco
 Possuí os snapshots dos objetos modelados no banco de dados do Firebase. 
 
-Mais detalhes em [banco.md](https://github.com/DiegoKremer/artefatos-ecclesia/tree/master/banco "banco.md")
+Mais detalhes em [banco.md](https://github.com/DiegoKremer/artefatos-ecclesia/tree/master/banco/banco.md "banco.md")
 
 ### discovery
 Resultados da pesquisa de validação da existência do problema durante a etapa de descoberta do projeto.
 
-Mais detalhes em [discovery.md](https://github.com/DiegoKremer/artefatos-ecclesia/tree/master/discovery "discovery.md")
+Mais detalhes em [discovery.md](https://github.com/DiegoKremer/artefatos-ecclesia/tree/master/discovery/discovery.md "discovery.md")
 
 ### model canvas
 Contém o canvas do MVP assim como arquivos com mais detalhes a cerca do planejamento do projeto de acordo com a metodologia de lean startup. 
