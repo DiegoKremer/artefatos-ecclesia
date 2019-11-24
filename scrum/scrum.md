@@ -33,3 +33,8 @@ O Taiga foi o software escolhido para gerenciar o projeto utilizando a metologia
 
 ![](https://github.com/DiegoKremer/artefatos-ecclesia/blob/master/scrum/taiga_main.png?raw=true)
 
+
+------------
+
+#### Relatório Taiga
+A fonte de dados é um relatório extraído do Taiga ao término do projeto que pode ser encontrado em sua versão *raw*  em formato XLSX no [Relatório de dados Taiga](https://github.com/DiegoKremer/artefatos-ecclesia/blob/master/scrum/taigaReport_userstories.xlsx "Relatório de dados Taiga").
